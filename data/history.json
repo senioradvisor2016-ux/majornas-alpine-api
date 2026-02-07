@@ -1,0 +1,17 @@
+{
+  "records": [
+    {
+      "timestamp": "2026-02-07T19:00:06.318Z",
+      "resort": "SkiStar Trysil",
+      "snow": 83,
+      "freshSnow": 0,
+      "temp": -10,
+      "wind": 4,
+      "liftsOpen": 29,
+      "liftsTotal": 31,
+      "slopesOpen": 62,
+      "slopesTotal": 70,
+      "powderAlert": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+
+🎿 ═══════════════════════════════════════════════════════
+   MAJORA ALPINE API - På Vift i Lift
+   Running on http://localhost:3850
+═══════════════════════════════════════════════════════ 🚡
+
+Endpoints:
+  GET  /                    API info
+  GET  /resorts             Lista anläggningar
+  GET  /resort/:id          Full resort data
+  GET  /resort/:id/lifts    Liftar + köprediktioner
+  GET  /resort/:id/slopes   Backar per svårighet
+  GET  /resort/:id/forecast 5-dagars prognos
+  GET  /resort/:id/ai       AI-rekommendationer
+  GET  /resort/:id/plan     Personlig dagsplan
+  GET  /resort/:id/gear     Utrustningsråd
+  GET  /compare             Jämför alla
+  GET  /best                Bästa anläggningen
+  POST /ai/ask              Fråga AI
+
+Resorts: trysil, hemsedal, are, salen, vemdalen, geilo, hovden
+  

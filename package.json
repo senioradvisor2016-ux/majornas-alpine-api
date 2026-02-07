@@ -1,0 +1,12 @@
+{
+  "name": "majornas-alpine-api",
+  "version": "2.0.0",
+  "description": "I Lift på Vift 🎿",
+  "main": "majora-api.js",
+  "scripts": {
+    "start": "node majora-api.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
